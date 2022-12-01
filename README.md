@@ -35,7 +35,6 @@ Diana DeGette
 
 Raymon Anthony Doane
 
----
 
 ## RESULTS
 

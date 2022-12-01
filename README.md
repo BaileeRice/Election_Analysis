@@ -1,5 +1,5 @@
 # Election_Analysis
-OVERVIEW
+## OVERVIEW
 
 A Colorado Board of Elections employee has given you the floowing tasks to complete the election audit of a recent local congressional election.
 
@@ -14,14 +14,14 @@ A Colorado Board of Elections employee has given you the floowing tasks to compl
 5. Determine a winner based off popular vote
 ---
 
-RESOURCES
+## RESOURCES
 
 Data Source: [election_results.csv](https://github.com/BaileeRice/Election_Analysis/files/9036980/election_results.csv)
 
 Software: Python 3.10.4, Visual Studio Code 1.68
 
----
-SUMMARY
+
+## SUMMARY
 
 The analysis of the election shows that:
 
@@ -37,7 +37,7 @@ Raymon Anthony Doane
 
 ---
 
-RESULTS
+## RESULTS
 
 Charles Casper Stockham recieved 23.0% of the vote. (85,213)
 

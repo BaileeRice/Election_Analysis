@@ -12,7 +12,7 @@ A Colorado Board of Elections employee has given you the floowing tasks to compl
 4. Calculate the % of votes each candidate won
 
 5. Determine a winner based off popular vote
----
+
 
 ## RESOURCES
 
